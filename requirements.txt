@@ -9,4 +9,4 @@ python-dotenv
 plotly
 Pillow
 google-generativeai
-opencv-python
+opencv-python-headless
